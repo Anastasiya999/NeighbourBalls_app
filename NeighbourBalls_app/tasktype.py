@@ -167,13 +167,12 @@ class TaskType:
         # self.grid.pos_hint = {"center_x": 0.45, "y": 0.25}
         # self.grid.size_hint = (.5, .55)
         self.grid.cols = 3
-        self.grid.padding=20
         self.clear_canvas()
         self.items = self.content.count() - 3
         label_ex = Label()
         inp_ex = TextInput(text=self.content['example']['klucz'], disabled=True, size_hint=(.5, None), height=50)
         label_ex.text = self.content['example']['string']
-        label_ex.color = (0, 0, 0, 1)
+        label_ex.color = (1, 0, 1, 1)
         self.grid.add_widget(label_ex)
         self.grid.add_widget(Image(size_hint=(.8, None), height=50, source=self.content.get('example')['source']))
         self.grid.add_widget(inp_ex)
@@ -182,7 +181,7 @@ class TaskType:
             self.inputs.append(inp)
             label = Label()
             label.text = self.content.get(str(i))['string']
-            label.color = (0, 0, 0, 1)
+            label.color = (1, 0, 1, 1)
             self.grid.add_widget(
                 label)
             self.grid.add_widget(

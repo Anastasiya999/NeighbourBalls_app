@@ -4,33 +4,33 @@ Nazwy krajów zawsze piszemy wielką literą, a przymiotniki określające języ
 
 Konstrukcja mówić po ...-u:
 
-Znam (język)...		Mówię po...
+Znam (język)...    Mówię po...
 
-francuski		po francusku
-hiszpański		po hiszpańsku
-angielski		po angielsku
-polski			po polsku
-włoski			po włosku
-niemiecki		po niemiecku
-szwedzki		po szwedzku
-ukraiński		po ukraińsku
+francuski  - po francusku
+hiszpański - po hiszpańsku
+angielski  - po angielsku
+polski     - po polsku
+włoski     - po włosku
+niemiecki  - po niemiecku
+szwedzki   - po szwedzku
+ukraiński  - po ukraińsku
 
 
 Koniugacja (-m, -sz)
-l.poj			l.mn.
-ja	mieszkam	my	mieszkamy
-ty	mieszkasz	wy	mieszkacie
-on			oni
-ona	mieszka		one	mieszkają
+l.poj           l.mn.
+ja  mieszkam    my  mieszkamy
+ty  mieszkasz   wy  mieszkacie
+on              oni
+ona mieszka     one mieszkają
 ono
 
 
 Koniugacja (-ę, -isz)
-l.poj			l.mn.
-ja	pochodzę z	my	pochodzimy z
-ty	pochodzisz z	wy	pochodzicie z
-on			oni
-ona	pochodzi z	one	pochodzą z
+l.poj           l.mn.
+ja  pochodzę z      my  pochodzimy z
+ty  pochodzisz z    wy  pochodzicie z
+on              oni
+ona pochodzi z  one pochodzą z
 ono
 
 Wskazywanie
