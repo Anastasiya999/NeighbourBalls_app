@@ -1,0 +1,27 @@
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.layout.GridPane?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.canvas.Canvas?>
+<?import javafx.scene.control.TextField?>
+<GridPane fx:controller="mandelbrot.Controller"
+          xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10" stylesheets="/mandelbrot/main.css">
+    <Canvas fx:id="canvas" GridPane.columnIndex="0" GridPane.rowSpan="11" width="512" height="512"
+            onMouseDragged="#mouseMoves" onMousePressed="#mousePressed" onMouseReleased="#mouseReleased"/>
+    <Button GridPane.columnIndex="1" GridPane.rowIndex="0" text="Clear" onAction="#clearCanvas" minWidth="100"/>
+    <Button GridPane.columnIndex="1" GridPane.rowIndex="1" text="Rectangle" onAction="#drawRect" minWidth="100"/>
+    <Button GridPane.columnIndex="1" GridPane.rowIndex="3" text="Draw Sierpiński" onAction="#draw" minWidth="100"/>
+    <Button GridPane.columnIndex="1" GridPane.rowIndex="6" text="fractal" onAction="#drawFractal" minWidth="100"/>
+    <Button GridPane.columnIndex="1" GridPane.rowIndex="4" text="Hello" onAction="#sayHello" minWidth="100"/>
+    <Label  GridPane.columnIndex="1" GridPane.rowIndex="5" fx:id="label" minWidth="100"/>
+    <TextField GridPane.columnIndex="1" GridPane.rowIndex="7" fx:id="Width" minWidth="50"/>
+    <TextField GridPane.columnIndex="1" GridPane.rowIndex="8" fx:id="Height" minWidth="50"/>
+    <Label  GridPane.columnIndex="2" GridPane.rowIndex="7"  text="width" fx:id="width" minWidth="100"/>
+    <Label  GridPane.columnIndex="2" GridPane.rowIndex="8"  text="height" fx:id="height" minWidth="100"/>
+    <TextField GridPane.columnIndex="1" GridPane.rowIndex="9" fx:id="r" minWidth="50"/>
+    <Label  GridPane.columnIndex="2" GridPane.rowIndex="9" text="zakres r" fx:id="zakres" minWidth="100"/>
+
+
+</GridPane>
+
