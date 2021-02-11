@@ -35,7 +35,7 @@ Show examples of usage:
 ## Screens
 
 ### Landing page
-![](NeighbourBalls_app/screenshots/landing.png)
+![](https://github.com/Anastasiya999/NeighbourBalls_app/master/NeighbourBalls_app/screenshots/landing.png)
 
 ### Study screen
 ![](NeighbourBalls_app/screenshots/study_screen.png)
