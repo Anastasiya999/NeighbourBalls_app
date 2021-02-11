@@ -35,27 +35,27 @@ Show examples of usage:
 ## Screens
 
 ### Landing page
-![](https://github.com/Anastasiya999/NeighbourBalls_app/master/NeighbourBalls_app/screenshots/landing.png)
+![landing](screenshots/landing.png)
 
 ### Study screen
 ![study screen](screenshots/study_screen.png)
 
 ### Choose level
-![](NeighbourBalls_app/screenshots/choose_level.png)
+![choose level](screenshots/choose_level.png)
 
 ### Task panel
-![](NeighbourBalls_app/screenshots/task_panel.png)
+![task panel](screenshots/task_panel.png)
 
 ### Task screen
-![](NeighbourBalls_app/screenshots/task.png)
+![task](screenshots/task.png)
 
 ### Flashcards
-![](NeighbourBalls_app/screenshots/flashcards_panel.png)
-![](NeighbourBalls_app/screenshots/card.png)
+![flashcards panel](screenshots/flashcards_panel.png)
+![flashcard](screenshots/card.png)
 
 ### Interesting facts
-![](NeighbourBalls_app/screenshots/facts_panel.png)
-![](NeighbourBalls_app/screenshots/fact.png)
+![facts panel](screenshots/facts_panel.png)
+![fact](screenshots/fact.png)
 
 
 ## Status
