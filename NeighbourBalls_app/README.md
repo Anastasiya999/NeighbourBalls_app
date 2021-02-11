@@ -38,7 +38,7 @@ Show examples of usage:
 ![](https://github.com/Anastasiya999/NeighbourBalls_app/master/NeighbourBalls_app/screenshots/landing.png)
 
 ### Study screen
-![](NeighbourBalls_app/screenshots/study_screen.png)
+![study screen](screenshots/study_screen.png)
 
 ### Choose level
 ![](NeighbourBalls_app/screenshots/choose_level.png)
