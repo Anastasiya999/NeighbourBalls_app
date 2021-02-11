@@ -35,27 +35,27 @@ Show examples of usage:
 ## Screens
 
 ### Landing page
-![](https://github.com/Anastasiya999/NeighbourBalls_app.git/NeighbourBalls_app/screenshots/landing.png)
+![](NeighbourBalls_app/screenshots/landing.png)
 
 ### Study screen
-![](https://github.com/Anastasiya999/NeighbourBalls_app.git/NeighbourBalls_app/screenshots/study_screen.png)
+![](NeighbourBalls_app/screenshots/study_screen.png)
 
 ### Choose level
-![](https://github.com/Anastasiya999/NeighbourBalls_app.git/NeighbourBalls_app/screenshots/choose_level.png)
+![](NeighbourBalls_app/screenshots/choose_level.png)
 
 ### Task panel
-![](https://github.com/Anastasiya999/NeighbourBalls_app.git/NeighbourBalls_app/screenshots/task_panel.png)
+![](NeighbourBalls_app/screenshots/task_panel.png)
 
 ### Task screen
-![](https://github.com/Anastasiya999/NeighbourBalls_app.git/NeighbourBalls_app/screenshots/task.png)
+![](NeighbourBalls_app/screenshots/task.png)
 
 ### Flashcards
-![](https://github.com/Anastasiya999/NeighbourBalls_app.git/NeighbourBalls_app/screenshots/flashcards_panel.png)
-![](https://github.com/Anastasiya999/NeighbourBalls_app.git/NeighbourBalls_app/screenshots/card.png)
+![](NeighbourBalls_app/screenshots/flashcards_panel.png)
+![](NeighbourBalls_app/screenshots/card.png)
 
 ### Interesting facts
-![](https://github.com/Anastasiya999/NeighbourBalls_app.git/NeighbourBalls_app/screenshots/facts_panel.png)
-![](https://github.com/Anastasiya999/NeighbourBalls_app.git/NeighbourBalls_app/screenshots/fact.png)
+![](NeighbourBalls_app/screenshots/facts_panel.png)
+![](NeighbourBalls_app/screenshots/fact.png)
 
 
 ## Status
